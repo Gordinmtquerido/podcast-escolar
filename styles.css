@@ -3,9 +3,9 @@
 
 :root {
     --laranja-claro: #080808 ;
-    --alto-contraste-fundo: #eed811;
+    --alto-contraste-fundo:  #e7d4d4;
     --alto-contraste-texto: #0a32e4f5;
-    --alto-contraste-link: #00b7ff;
+    --alto-contraste-link: #070707;
 }
 
 body {
@@ -15,7 +15,10 @@ body {
 
 header {
     background-color: hsl(0, 0%, 3%);
+
 }
+    
+
 
 
 section {
