@@ -4,7 +4,7 @@
 :root {
     --laranja-claro: #ffffff;
     --alto-contraste-fundo: #f0e5e5;
-    --alto-contraste-texto: #5900ff;
+    --alto-contraste-texto: #e5ff00;
     --alto-contraste-link: #00b7ff;
 }
 
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #f0b30b;
+    background-color: #000000;
 }
 
 
@@ -74,7 +74,7 @@ section {
 }
 
 
-#tropicalia {
+#marinsconnect {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
@@ -85,7 +85,7 @@ section {
     /* Ajuste o tamanho conforme necessário */
 }
 
-#tropicalia .container {
+#marinsconnect .container {
     display: flex;
     align-items: center;
     justify-content: center;
