@@ -3,7 +3,7 @@
 
 :root {
     --laranja-claro: #ffffff;
-    --alto-contraste-fundo: #f0e5e5;
+    --alto-contraste-fundo: #ffffff;
     --alto-contraste-texto: #002ffff5;
     --alto-contraste-link: #00b7ff;
 }
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #000000;
+    background-color: #f8fc02;
 }
 
 
@@ -188,7 +188,7 @@ h2 {
     color: var(--alto-contraste-fundo)
 }
 
-.alto-contraste #marins connect {
+.alto-contraste #marinsconnect {
     background: none;
 }
 
