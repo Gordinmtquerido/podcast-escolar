@@ -14,17 +14,13 @@ body {
 }
 
 header {
-    background-color: hsl(0, 0%, 3%);
-
+    background-color: #000000;
 }
-    
-
 
 
 section {
     padding-bottom: 5rem;
 }
-
 
 .nav-link {
     color: #5900ff;
